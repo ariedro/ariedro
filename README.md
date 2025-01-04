@@ -4,6 +4,6 @@ Here's a few links:
 
 - [My webpage](http://ariedro.dev/)
 - [My resume](http://hire.ariedro.dev/)
-- [My mail](ariedro@gmail.com)
+- [My mail](mailto:ariedro@gmail.com)
 - [My Telegram](https://t.me/ariedro)
 - [My LinkedIn](https://www.linkedin.com/in/ariedro/)
